@@ -31,7 +31,7 @@ To run the LMS application locally, follow these steps:
 ### Steps
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/OsamaFahim/Learning-Management-System.git
+   git clone https://github.com/AhmadRafiq90/Learning_Management_System.git
 
 2. Open the Project in visual studio and change the connection strings in the project to your connection strings
 
